@@ -27,3 +27,13 @@ After all the modules are installed, run the server.
 The crawler page contains with a simple form including an input field and a "Crawl" button. In that input field, you can enter the URL of the page you wanted to crawl.
 The DataTable library is using for showing data.
 Along with all the crawled data on the web page, it will also show 2 buttons to “Delete” and to “Re-index”. "Delete" simply means to delete the page from the database. “Reindex” means to re-crawl the web page to fetch updated content.
+
+## ScreenShots:
+
+![1](/public/images/1.png)
+![2](/public/images/2.png)
+![3](/public/images/3.png)
+![4](/public/images/4.png)
+![5](/public/images/5.png)
+![6](/public/images/6.png)
+![7](/public/images/7.png)
